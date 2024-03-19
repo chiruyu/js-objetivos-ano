@@ -20,14 +20,14 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
 }
 
 .titulo-principal {
-    text-align: center;
+    text-align:center;
     width: 100%;
     font-size: 32px;
 }
